@@ -3,8 +3,8 @@ import java.util.Random;
 public class Ejercicio2 <T extends Comparable>  {
 
     /**
-     * It search for the minimum value in the list and it changes it with the first value. Then, it starts
-     * searching for the next minimum value and changes it with the second value in the array and so on.
+     * It searches for the minimum value in the list and swaps it with the first value. Then, it
+     * searches for the next minimum value and changes it with the second value in the array, and so on.
      * @param array The array of type T that will be sorted.
      * @return  The array of type T sorted
      */
